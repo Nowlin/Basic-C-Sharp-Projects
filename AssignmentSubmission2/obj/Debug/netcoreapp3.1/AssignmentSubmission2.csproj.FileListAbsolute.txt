@@ -1,0 +1,14 @@
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\AssignmentSubmission2\bin\Debug\netcoreapp3.1\AssignmentSubmission2.exe
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\AssignmentSubmission2\bin\Debug\netcoreapp3.1\AssignmentSubmission2.deps.json
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\AssignmentSubmission2\bin\Debug\netcoreapp3.1\AssignmentSubmission2.runtimeconfig.json
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\AssignmentSubmission2\bin\Debug\netcoreapp3.1\AssignmentSubmission2.runtimeconfig.dev.json
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\AssignmentSubmission2\bin\Debug\netcoreapp3.1\AssignmentSubmission2.dll
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\AssignmentSubmission2\bin\Debug\netcoreapp3.1\AssignmentSubmission2.pdb
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\AssignmentSubmission2\obj\Debug\netcoreapp3.1\AssignmentSubmission2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\AssignmentSubmission2\obj\Debug\netcoreapp3.1\AssignmentSubmission2.AssemblyInfoInputs.cache
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\AssignmentSubmission2\obj\Debug\netcoreapp3.1\AssignmentSubmission2.AssemblyInfo.cs
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\AssignmentSubmission2\obj\Debug\netcoreapp3.1\AssignmentSubmission2.csproj.CoreCompileInputs.cache
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\AssignmentSubmission2\obj\Debug\netcoreapp3.1\AssignmentSubmission2.dll
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\AssignmentSubmission2\obj\Debug\netcoreapp3.1\AssignmentSubmission2.pdb
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\AssignmentSubmission2\obj\Debug\netcoreapp3.1\AssignmentSubmission2.genruntimeconfig.cache
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\AssignmentSubmission2\obj\Debug\netcoreapp3.1\AssignmentSubmission2.csproj.AssemblyReference.cache

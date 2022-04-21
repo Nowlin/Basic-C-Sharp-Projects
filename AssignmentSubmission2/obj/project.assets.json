@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\s_now\\Documents\\GitHub\\Basic-C-Sharp-Projects\\VariablesAndDataTypes\\VariablesAndDataTypes.csproj",
-      "projectName": "VariablesAndDataTypes",
-      "projectPath": "C:\\Users\\s_now\\Documents\\GitHub\\Basic-C-Sharp-Projects\\VariablesAndDataTypes\\VariablesAndDataTypes.csproj",
+      "projectUniqueName": "C:\\Users\\s_now\\Documents\\GitHub\\Basic-C-Sharp-Projects\\AssignmentSubmission2\\AssignmentSubmission2.csproj",
+      "projectName": "AssignmentSubmission2",
+      "projectPath": "C:\\Users\\s_now\\Documents\\GitHub\\Basic-C-Sharp-Projects\\AssignmentSubmission2\\AssignmentSubmission2.csproj",
       "packagesPath": "C:\\Users\\s_now\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s_now\\Documents\\GitHub\\Basic-C-Sharp-Projects\\VariablesAndDataTypes\\obj\\",
+      "outputPath": "C:\\Users\\s_now\\Documents\\GitHub\\Basic-C-Sharp-Projects\\AssignmentSubmission2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
