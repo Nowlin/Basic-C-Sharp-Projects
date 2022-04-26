@@ -1,0 +1,14 @@
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\IncomeComparisonAssignment\bin\Debug\netcoreapp3.1\IncomeComparisonAssignment.exe
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\IncomeComparisonAssignment\bin\Debug\netcoreapp3.1\IncomeComparisonAssignment.deps.json
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\IncomeComparisonAssignment\bin\Debug\netcoreapp3.1\IncomeComparisonAssignment.runtimeconfig.json
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\IncomeComparisonAssignment\bin\Debug\netcoreapp3.1\IncomeComparisonAssignment.runtimeconfig.dev.json
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\IncomeComparisonAssignment\bin\Debug\netcoreapp3.1\IncomeComparisonAssignment.dll
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\IncomeComparisonAssignment\bin\Debug\netcoreapp3.1\IncomeComparisonAssignment.pdb
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\IncomeComparisonAssignment\obj\Debug\netcoreapp3.1\IncomeComparisonAssignment.csproj.AssemblyReference.cache
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\IncomeComparisonAssignment\obj\Debug\netcoreapp3.1\IncomeComparisonAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\IncomeComparisonAssignment\obj\Debug\netcoreapp3.1\IncomeComparisonAssignment.AssemblyInfoInputs.cache
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\IncomeComparisonAssignment\obj\Debug\netcoreapp3.1\IncomeComparisonAssignment.AssemblyInfo.cs
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\IncomeComparisonAssignment\obj\Debug\netcoreapp3.1\IncomeComparisonAssignment.csproj.CoreCompileInputs.cache
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\IncomeComparisonAssignment\obj\Debug\netcoreapp3.1\IncomeComparisonAssignment.dll
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\IncomeComparisonAssignment\obj\Debug\netcoreapp3.1\IncomeComparisonAssignment.pdb
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\IncomeComparisonAssignment\obj\Debug\netcoreapp3.1\IncomeComparisonAssignment.genruntimeconfig.cache
