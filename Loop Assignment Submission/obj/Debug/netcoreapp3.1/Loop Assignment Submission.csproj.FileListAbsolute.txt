@@ -1,0 +1,14 @@
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Loop Assignment Submission\obj\Debug\netcoreapp3.1\Loop Assignment Submission.csproj.AssemblyReference.cache
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Loop Assignment Submission\obj\Debug\netcoreapp3.1\Loop Assignment Submission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Loop Assignment Submission\obj\Debug\netcoreapp3.1\Loop Assignment Submission.AssemblyInfoInputs.cache
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Loop Assignment Submission\obj\Debug\netcoreapp3.1\Loop Assignment Submission.AssemblyInfo.cs
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Loop Assignment Submission\obj\Debug\netcoreapp3.1\Loop Assignment Submission.csproj.CoreCompileInputs.cache
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Loop Assignment Submission\bin\Debug\netcoreapp3.1\Loop Assignment Submission.exe
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Loop Assignment Submission\bin\Debug\netcoreapp3.1\Loop Assignment Submission.deps.json
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Loop Assignment Submission\bin\Debug\netcoreapp3.1\Loop Assignment Submission.runtimeconfig.json
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Loop Assignment Submission\bin\Debug\netcoreapp3.1\Loop Assignment Submission.runtimeconfig.dev.json
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Loop Assignment Submission\bin\Debug\netcoreapp3.1\Loop Assignment Submission.dll
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Loop Assignment Submission\bin\Debug\netcoreapp3.1\Loop Assignment Submission.pdb
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Loop Assignment Submission\obj\Debug\netcoreapp3.1\Loop Assignment Submission.dll
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Loop Assignment Submission\obj\Debug\netcoreapp3.1\Loop Assignment Submission.pdb
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Loop Assignment Submission\obj\Debug\netcoreapp3.1\Loop Assignment Submission.genruntimeconfig.cache
