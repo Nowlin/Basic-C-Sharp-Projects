@@ -1,0 +1,14 @@
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\String Assignment Submission\bin\Debug\netcoreapp3.1\String Assignment Submission.exe
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\String Assignment Submission\bin\Debug\netcoreapp3.1\String Assignment Submission.deps.json
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\String Assignment Submission\bin\Debug\netcoreapp3.1\String Assignment Submission.runtimeconfig.json
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\String Assignment Submission\bin\Debug\netcoreapp3.1\String Assignment Submission.runtimeconfig.dev.json
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\String Assignment Submission\bin\Debug\netcoreapp3.1\String Assignment Submission.dll
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\String Assignment Submission\bin\Debug\netcoreapp3.1\String Assignment Submission.pdb
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\String Assignment Submission\obj\Debug\netcoreapp3.1\String Assignment Submission.csproj.AssemblyReference.cache
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\String Assignment Submission\obj\Debug\netcoreapp3.1\String Assignment Submission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\String Assignment Submission\obj\Debug\netcoreapp3.1\String Assignment Submission.AssemblyInfoInputs.cache
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\String Assignment Submission\obj\Debug\netcoreapp3.1\String Assignment Submission.AssemblyInfo.cs
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\String Assignment Submission\obj\Debug\netcoreapp3.1\String Assignment Submission.csproj.CoreCompileInputs.cache
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\String Assignment Submission\obj\Debug\netcoreapp3.1\String Assignment Submission.dll
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\String Assignment Submission\obj\Debug\netcoreapp3.1\String Assignment Submission.pdb
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\String Assignment Submission\obj\Debug\netcoreapp3.1\String Assignment Submission.genruntimeconfig.cache

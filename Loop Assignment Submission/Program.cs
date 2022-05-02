@@ -44,7 +44,7 @@ namespace Loop_Assignment_Submission
                         Console.WriteLine("Are you trying to stir me up? Try again?");
                         break;
                     case "pasta":
-                        Console.WriteLine("Aren't we Pasta that? Try again?");
+                        Console.WriteLine("Aren't we pasta that? Try again?");
                         break;
                     case "burgers":
                         Console.WriteLine("Whould you like fries with that? Try again?");
