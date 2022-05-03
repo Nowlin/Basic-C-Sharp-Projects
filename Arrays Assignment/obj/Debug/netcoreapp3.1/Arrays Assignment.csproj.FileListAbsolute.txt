@@ -1,0 +1,14 @@
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Arrays Assignment\bin\Debug\netcoreapp3.1\Arrays Assignment.exe
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Arrays Assignment\bin\Debug\netcoreapp3.1\Arrays Assignment.deps.json
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Arrays Assignment\bin\Debug\netcoreapp3.1\Arrays Assignment.runtimeconfig.json
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Arrays Assignment\bin\Debug\netcoreapp3.1\Arrays Assignment.runtimeconfig.dev.json
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Arrays Assignment\bin\Debug\netcoreapp3.1\Arrays Assignment.dll
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Arrays Assignment\bin\Debug\netcoreapp3.1\Arrays Assignment.pdb
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Arrays Assignment\obj\Debug\netcoreapp3.1\Arrays Assignment.csproj.AssemblyReference.cache
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Arrays Assignment\obj\Debug\netcoreapp3.1\Arrays Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Arrays Assignment\obj\Debug\netcoreapp3.1\Arrays Assignment.AssemblyInfoInputs.cache
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Arrays Assignment\obj\Debug\netcoreapp3.1\Arrays Assignment.AssemblyInfo.cs
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Arrays Assignment\obj\Debug\netcoreapp3.1\Arrays Assignment.csproj.CoreCompileInputs.cache
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Arrays Assignment\obj\Debug\netcoreapp3.1\Arrays Assignment.dll
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Arrays Assignment\obj\Debug\netcoreapp3.1\Arrays Assignment.pdb
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Arrays Assignment\obj\Debug\netcoreapp3.1\Arrays Assignment.genruntimeconfig.cache
