@@ -1,0 +1,14 @@
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Method Assignment\bin\Debug\netcoreapp3.1\Method Assignment.exe
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Method Assignment\bin\Debug\netcoreapp3.1\Method Assignment.deps.json
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Method Assignment\bin\Debug\netcoreapp3.1\Method Assignment.runtimeconfig.json
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Method Assignment\bin\Debug\netcoreapp3.1\Method Assignment.runtimeconfig.dev.json
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Method Assignment\bin\Debug\netcoreapp3.1\Method Assignment.dll
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Method Assignment\bin\Debug\netcoreapp3.1\Method Assignment.pdb
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Method Assignment\obj\Debug\netcoreapp3.1\Method Assignment.csproj.AssemblyReference.cache
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Method Assignment\obj\Debug\netcoreapp3.1\Method Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Method Assignment\obj\Debug\netcoreapp3.1\Method Assignment.AssemblyInfoInputs.cache
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Method Assignment\obj\Debug\netcoreapp3.1\Method Assignment.AssemblyInfo.cs
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Method Assignment\obj\Debug\netcoreapp3.1\Method Assignment.csproj.CoreCompileInputs.cache
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Method Assignment\obj\Debug\netcoreapp3.1\Method Assignment.dll
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Method Assignment\obj\Debug\netcoreapp3.1\Method Assignment.pdb
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Method Assignment\obj\Debug\netcoreapp3.1\Method Assignment.genruntimeconfig.cache
