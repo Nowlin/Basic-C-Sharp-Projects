@@ -1,0 +1,14 @@
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Classes and Methods Assignment 3\bin\Debug\netcoreapp3.1\Classes and Methods Assignment 3.exe
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Classes and Methods Assignment 3\bin\Debug\netcoreapp3.1\Classes and Methods Assignment 3.deps.json
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Classes and Methods Assignment 3\bin\Debug\netcoreapp3.1\Classes and Methods Assignment 3.runtimeconfig.json
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Classes and Methods Assignment 3\bin\Debug\netcoreapp3.1\Classes and Methods Assignment 3.runtimeconfig.dev.json
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Classes and Methods Assignment 3\bin\Debug\netcoreapp3.1\Classes and Methods Assignment 3.dll
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Classes and Methods Assignment 3\bin\Debug\netcoreapp3.1\Classes and Methods Assignment 3.pdb
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Classes and Methods Assignment 3\obj\Debug\netcoreapp3.1\Classes and Methods Assignment 3.csproj.AssemblyReference.cache
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Classes and Methods Assignment 3\obj\Debug\netcoreapp3.1\Classes and Methods Assignment 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Classes and Methods Assignment 3\obj\Debug\netcoreapp3.1\Classes and Methods Assignment 3.AssemblyInfoInputs.cache
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Classes and Methods Assignment 3\obj\Debug\netcoreapp3.1\Classes and Methods Assignment 3.AssemblyInfo.cs
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Classes and Methods Assignment 3\obj\Debug\netcoreapp3.1\Classes and Methods Assignment 3.csproj.CoreCompileInputs.cache
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Classes and Methods Assignment 3\obj\Debug\netcoreapp3.1\Classes and Methods Assignment 3.dll
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Classes and Methods Assignment 3\obj\Debug\netcoreapp3.1\Classes and Methods Assignment 3.pdb
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Classes and Methods Assignment 3\obj\Debug\netcoreapp3.1\Classes and Methods Assignment 3.genruntimeconfig.cache
