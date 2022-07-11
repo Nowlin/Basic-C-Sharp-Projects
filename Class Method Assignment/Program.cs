@@ -6,7 +6,10 @@ namespace Class_Method_Assignment
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            CMA YoDude = new CMA();
+            Console.WriteLine("Please enter a number................");
+            int YoDude2 = Convert.ToInt32(Console.ReadLine());
+            YoDude.Divide(YoDude2);
         }
     }
 }
