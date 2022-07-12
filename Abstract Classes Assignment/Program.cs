@@ -14,6 +14,7 @@ namespace Abstract_Classes_Assignment
             employee.firstName = "Sample";
             employee.lastName = "Student";
             employee.SayName();
+            employee.Quit();
         }
     }
 }
