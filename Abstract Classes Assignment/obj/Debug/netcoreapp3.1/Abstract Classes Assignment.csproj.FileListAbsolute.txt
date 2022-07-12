@@ -1,0 +1,13 @@
+C:\Users\s_now\source\repos\Abstract Classes Assignment\bin\Debug\netcoreapp3.1\Abstract Classes Assignment.exe
+C:\Users\s_now\source\repos\Abstract Classes Assignment\bin\Debug\netcoreapp3.1\Abstract Classes Assignment.deps.json
+C:\Users\s_now\source\repos\Abstract Classes Assignment\bin\Debug\netcoreapp3.1\Abstract Classes Assignment.runtimeconfig.json
+C:\Users\s_now\source\repos\Abstract Classes Assignment\bin\Debug\netcoreapp3.1\Abstract Classes Assignment.runtimeconfig.dev.json
+C:\Users\s_now\source\repos\Abstract Classes Assignment\bin\Debug\netcoreapp3.1\Abstract Classes Assignment.dll
+C:\Users\s_now\source\repos\Abstract Classes Assignment\bin\Debug\netcoreapp3.1\Abstract Classes Assignment.pdb
+C:\Users\s_now\source\repos\Abstract Classes Assignment\obj\Debug\netcoreapp3.1\Abstract Classes Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s_now\source\repos\Abstract Classes Assignment\obj\Debug\netcoreapp3.1\Abstract Classes Assignment.AssemblyInfoInputs.cache
+C:\Users\s_now\source\repos\Abstract Classes Assignment\obj\Debug\netcoreapp3.1\Abstract Classes Assignment.AssemblyInfo.cs
+C:\Users\s_now\source\repos\Abstract Classes Assignment\obj\Debug\netcoreapp3.1\Abstract Classes Assignment.csproj.CoreCompileInputs.cache
+C:\Users\s_now\source\repos\Abstract Classes Assignment\obj\Debug\netcoreapp3.1\Abstract Classes Assignment.dll
+C:\Users\s_now\source\repos\Abstract Classes Assignment\obj\Debug\netcoreapp3.1\Abstract Classes Assignment.pdb
+C:\Users\s_now\source\repos\Abstract Classes Assignment\obj\Debug\netcoreapp3.1\Abstract Classes Assignment.genruntimeconfig.cache
