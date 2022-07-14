@@ -16,5 +16,17 @@ namespace Abstract_Classes_Assignment
         {
             Console.WriteLine("I QUIT!!!!!!!");
         }
+        public int ID { get; set; }
+        public static bool operator ==(Employee employee, Employee employee1)
+        {
+            if (employee.ID == employee1.ID)
+                return true;
+            else
+                return false;
+        }
+        public static bool operator !=(Employee employee, Employee employee1)
+        {
+            return employee.ID != employee1.ID; 
+        }
     }
 }
