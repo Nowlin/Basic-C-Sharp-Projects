@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {
-      "Casino/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "compile": {
-          "bin/placeholder/Casino.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Casino.dll": {}
-        }
-      }
-    }
+    ".NETCoreApp,Version=v3.1": {}
   },
-  "libraries": {
-    "Casino/1.0.0": {
-      "type": "project",
-      "path": "../Casino/Casino.csproj",
-      "msbuildProject": "../Casino/Casino.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": [
-      "Casino >= 1.0.0"
-    ]
+    ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
     "C:\\Users\\s_now\\.nuget\\packages\\": {},
@@ -34,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\s_now\\Documents\\GitHub\\Basic-C-Sharp-Projects\\Twenty One\\Twenty One.csproj",
-      "projectName": "Twenty One",
-      "projectPath": "C:\\Users\\s_now\\Documents\\GitHub\\Basic-C-Sharp-Projects\\Twenty One\\Twenty One.csproj",
+      "projectUniqueName": "C:\\Users\\s_now\\Documents\\GitHub\\Basic-C-Sharp-Projects\\Additional Features Assignment\\Additional Features Assignment.csproj",
+      "projectName": "Additional Features Assignment",
+      "projectPath": "C:\\Users\\s_now\\Documents\\GitHub\\Basic-C-Sharp-Projects\\Additional Features Assignment\\Additional Features Assignment.csproj",
       "packagesPath": "C:\\Users\\s_now\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s_now\\Documents\\GitHub\\Basic-C-Sharp-Projects\\Twenty One\\obj\\",
+      "outputPath": "C:\\Users\\s_now\\Documents\\GitHub\\Basic-C-Sharp-Projects\\Additional Features Assignment\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -60,11 +41,7 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {
-            "C:\\Users\\s_now\\Documents\\GitHub\\Basic-C-Sharp-Projects\\Casino\\Casino.csproj": {
-              "projectPath": "C:\\Users\\s_now\\Documents\\GitHub\\Basic-C-Sharp-Projects\\Casino\\Casino.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

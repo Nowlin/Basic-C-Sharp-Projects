@@ -1,0 +1,13 @@
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Additional Features Assignment\bin\Debug\netcoreapp3.1\Additional Features Assignment.exe
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Additional Features Assignment\bin\Debug\netcoreapp3.1\Additional Features Assignment.deps.json
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Additional Features Assignment\bin\Debug\netcoreapp3.1\Additional Features Assignment.runtimeconfig.json
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Additional Features Assignment\bin\Debug\netcoreapp3.1\Additional Features Assignment.runtimeconfig.dev.json
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Additional Features Assignment\bin\Debug\netcoreapp3.1\Additional Features Assignment.dll
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Additional Features Assignment\bin\Debug\netcoreapp3.1\Additional Features Assignment.pdb
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Additional Features Assignment\obj\Debug\netcoreapp3.1\Additional Features Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Additional Features Assignment\obj\Debug\netcoreapp3.1\Additional Features Assignment.AssemblyInfoInputs.cache
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Additional Features Assignment\obj\Debug\netcoreapp3.1\Additional Features Assignment.AssemblyInfo.cs
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Additional Features Assignment\obj\Debug\netcoreapp3.1\Additional Features Assignment.csproj.CoreCompileInputs.cache
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Additional Features Assignment\obj\Debug\netcoreapp3.1\Additional Features Assignment.dll
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Additional Features Assignment\obj\Debug\netcoreapp3.1\Additional Features Assignment.pdb
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Additional Features Assignment\obj\Debug\netcoreapp3.1\Additional Features Assignment.genruntimeconfig.cache

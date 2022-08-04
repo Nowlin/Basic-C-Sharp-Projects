@@ -12,3 +12,6 @@ C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Twenty One\obj\Debug\netc
 C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Twenty One\obj\Debug\netcoreapp3.1\Twenty One.dll
 C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Twenty One\obj\Debug\netcoreapp3.1\Twenty One.pdb
 C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Twenty One\obj\Debug\netcoreapp3.1\Twenty One.genruntimeconfig.cache
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Twenty One\bin\Debug\netcoreapp3.1\Casino.dll
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Twenty One\bin\Debug\netcoreapp3.1\Casino.pdb
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Twenty One\obj\Debug\netcoreapp3.1\Twenty One.csproj.CopyComplete
