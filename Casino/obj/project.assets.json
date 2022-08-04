@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\s_now\\Documents\\GitHub\\Basic-C-Sharp-Projects\\File IO Assignment\\File IO Assignment.csproj",
-      "projectName": "File IO Assignment",
-      "projectPath": "C:\\Users\\s_now\\Documents\\GitHub\\Basic-C-Sharp-Projects\\File IO Assignment\\File IO Assignment.csproj",
+      "projectUniqueName": "C:\\Users\\s_now\\Documents\\GitHub\\Basic-C-Sharp-Projects\\Casino\\Casino.csproj",
+      "projectName": "Casino",
+      "projectPath": "C:\\Users\\s_now\\Documents\\GitHub\\Basic-C-Sharp-Projects\\Casino\\Casino.csproj",
       "packagesPath": "C:\\Users\\s_now\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s_now\\Documents\\GitHub\\Basic-C-Sharp-Projects\\File IO Assignment\\obj\\",
+      "outputPath": "C:\\Users\\s_now\\Documents\\GitHub\\Basic-C-Sharp-Projects\\Casino\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

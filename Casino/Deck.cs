@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Twenty_One
+namespace Casino
 {
-    class Deck
+    public class Deck
     {
         public Deck()
         {

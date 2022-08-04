@@ -17,7 +17,8 @@ namespace File_IO_Assignment
             {
                 file.WriteLine(log);
             }
-            File.ReadAllText(@"C:\Users\s_now\logs\log.txt");
+            string log2 = File.ReadAllText(@"C:\Users\s_now\logs\log.txt");
+            Console.WriteLine(log2);
         }
     }
 }

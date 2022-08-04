@@ -7,9 +7,8 @@ namespace DateTime_Assignment
         static void Main(string[] args)
         {
             Console.WriteLine("It is: " + DateTime.Now + " at the time you started this page up. Please enter a number");
-            DateTime Hours = Convert.ToDateTime(Console.ReadLine());
-            DateTime dateTime = DateTime.Now;
-            Console.WriteLine("In {1} hours it will be: ", Hours + (Hours + dateTime));
+            int Hours = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("In {0} hours it will be: {1}", Hours, DateTime.Now.AddHours(Hours));
         }
     }
 }
