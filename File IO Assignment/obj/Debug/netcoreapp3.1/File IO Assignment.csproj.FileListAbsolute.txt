@@ -1,0 +1,14 @@
+C:\Users\s_now\source\repos\File IO Assignment\bin\Debug\netcoreapp3.1\File IO Assignment.exe
+C:\Users\s_now\source\repos\File IO Assignment\bin\Debug\netcoreapp3.1\File IO Assignment.deps.json
+C:\Users\s_now\source\repos\File IO Assignment\bin\Debug\netcoreapp3.1\File IO Assignment.runtimeconfig.json
+C:\Users\s_now\source\repos\File IO Assignment\bin\Debug\netcoreapp3.1\File IO Assignment.runtimeconfig.dev.json
+C:\Users\s_now\source\repos\File IO Assignment\bin\Debug\netcoreapp3.1\File IO Assignment.dll
+C:\Users\s_now\source\repos\File IO Assignment\bin\Debug\netcoreapp3.1\File IO Assignment.pdb
+C:\Users\s_now\source\repos\File IO Assignment\obj\Debug\netcoreapp3.1\File IO Assignment.csproj.AssemblyReference.cache
+C:\Users\s_now\source\repos\File IO Assignment\obj\Debug\netcoreapp3.1\File IO Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s_now\source\repos\File IO Assignment\obj\Debug\netcoreapp3.1\File IO Assignment.AssemblyInfoInputs.cache
+C:\Users\s_now\source\repos\File IO Assignment\obj\Debug\netcoreapp3.1\File IO Assignment.AssemblyInfo.cs
+C:\Users\s_now\source\repos\File IO Assignment\obj\Debug\netcoreapp3.1\File IO Assignment.csproj.CoreCompileInputs.cache
+C:\Users\s_now\source\repos\File IO Assignment\obj\Debug\netcoreapp3.1\File IO Assignment.dll
+C:\Users\s_now\source\repos\File IO Assignment\obj\Debug\netcoreapp3.1\File IO Assignment.pdb
+C:\Users\s_now\source\repos\File IO Assignment\obj\Debug\netcoreapp3.1\File IO Assignment.genruntimeconfig.cache
