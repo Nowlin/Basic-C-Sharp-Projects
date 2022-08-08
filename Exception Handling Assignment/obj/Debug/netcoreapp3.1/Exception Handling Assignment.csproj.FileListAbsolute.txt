@@ -1,0 +1,14 @@
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Exception Handling Assignment\bin\Debug\netcoreapp3.1\Exception Handling Assignment.exe
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Exception Handling Assignment\bin\Debug\netcoreapp3.1\Exception Handling Assignment.deps.json
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Exception Handling Assignment\bin\Debug\netcoreapp3.1\Exception Handling Assignment.runtimeconfig.json
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Exception Handling Assignment\bin\Debug\netcoreapp3.1\Exception Handling Assignment.runtimeconfig.dev.json
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Exception Handling Assignment\bin\Debug\netcoreapp3.1\Exception Handling Assignment.dll
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Exception Handling Assignment\bin\Debug\netcoreapp3.1\Exception Handling Assignment.pdb
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Exception Handling Assignment\obj\Debug\netcoreapp3.1\Exception Handling Assignment.csproj.AssemblyReference.cache
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Exception Handling Assignment\obj\Debug\netcoreapp3.1\Exception Handling Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Exception Handling Assignment\obj\Debug\netcoreapp3.1\Exception Handling Assignment.AssemblyInfoInputs.cache
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Exception Handling Assignment\obj\Debug\netcoreapp3.1\Exception Handling Assignment.AssemblyInfo.cs
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Exception Handling Assignment\obj\Debug\netcoreapp3.1\Exception Handling Assignment.csproj.CoreCompileInputs.cache
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Exception Handling Assignment\obj\Debug\netcoreapp3.1\Exception Handling Assignment.dll
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Exception Handling Assignment\obj\Debug\netcoreapp3.1\Exception Handling Assignment.pdb
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Exception Handling Assignment\obj\Debug\netcoreapp3.1\Exception Handling Assignment.genruntimeconfig.cache

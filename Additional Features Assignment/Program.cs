@@ -8,7 +8,6 @@ namespace Additional_Features_Assignment
         {
             var Ummmmm = 82;
             const int Otay = 19;
-            Console.WriteLine(Otay + " " + Ummmmm);
         }
     }
 }
