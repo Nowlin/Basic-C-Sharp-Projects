@@ -10,17 +10,15 @@ namespace Exception_Handling_Assignment
         static void Main(string[] args)
         {
             Console.WriteLine("Not supposed to ask this.... but, how old are you?");
-            int Age = Convert.ToInt32(Console.ReadLine());
+            string userInput = Console.ReadLine();
             try
             {
-                if (Age > 1 && Age < 100)
+                int Age = Convert.ToInt32(userInput);
+                if (Age > 1)
                 {
-                    Console.WriteLine("So... that means you were born in: " + (2022 - Age) + " What was it like in the stone age?");
+                    Console.WriteLine("So... that means you were born in: " + (DateTime.Now.Year - Age) + " What was it like in the stone age?");
                 }
-            }
-            catch
-            {
-                if (Age == 0)
+                else if (Age == 0)
                 {
                     throw new ZeroException();
                 }
@@ -28,10 +26,18 @@ namespace Exception_Handling_Assignment
                 {
                     throw new NegativeException("Ummmmmm........ No.........");
                 }
-                else
-                {
-                    throw new Exception("Not sure how you screwed this up.... Gratz on finding a way....!");
-                }
+            }
+            catch (ZeroException ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+            catch (NegativeException ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+            catch (FormatException)
+            {
+                Console.WriteLine("Not sure how you screwed this up.... Gratz on finding a way....!");
             }
         }
     }

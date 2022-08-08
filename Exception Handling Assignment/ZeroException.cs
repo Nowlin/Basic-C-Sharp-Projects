@@ -11,7 +11,7 @@ namespace Exception_Handling_Assignment
         {
             get
             {
-                return "Not sure how you screwed this up.... Gratz on finding a way....!";
+                return "Really? Zero? No one believes those lies.............. ";
             }
         }
     }
