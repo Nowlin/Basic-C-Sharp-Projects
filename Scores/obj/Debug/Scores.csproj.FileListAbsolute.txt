@@ -1,0 +1,7 @@
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Scores\bin\Debug\Scores.exe.config
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Scores\bin\Debug\Scores.exe
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Scores\bin\Debug\Scores.pdb
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Scores\obj\Debug\Scores.csproj.AssemblyReference.cache
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Scores\obj\Debug\Scores.csproj.CoreCompileInputs.cache
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Scores\obj\Debug\Scores.exe
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\Scores\obj\Debug\Scores.pdb
