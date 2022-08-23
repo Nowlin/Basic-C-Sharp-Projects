@@ -1,0 +1,35 @@
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\School of Yabba\bin\Debug\netcoreapp3.1\School of Yabba.exe
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\School of Yabba\bin\Debug\netcoreapp3.1\School of Yabba.deps.json
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\School of Yabba\bin\Debug\netcoreapp3.1\School of Yabba.runtimeconfig.json
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\School of Yabba\bin\Debug\netcoreapp3.1\School of Yabba.runtimeconfig.dev.json
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\School of Yabba\bin\Debug\netcoreapp3.1\School of Yabba.dll
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\School of Yabba\bin\Debug\netcoreapp3.1\School of Yabba.pdb
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\School of Yabba\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\School of Yabba\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\School of Yabba\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\School of Yabba\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\School of Yabba\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\School of Yabba\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\School of Yabba\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\School of Yabba\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\School of Yabba\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\School of Yabba\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\School of Yabba\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\School of Yabba\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\School of Yabba\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\School of Yabba\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\School of Yabba\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\School of Yabba\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\School of Yabba\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\School of Yabba\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\School of Yabba\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\School of Yabba\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\School of Yabba\obj\Debug\netcoreapp3.1\School of Yabba.csproj.AssemblyReference.cache
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\School of Yabba\obj\Debug\netcoreapp3.1\School of Yabba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\School of Yabba\obj\Debug\netcoreapp3.1\School of Yabba.AssemblyInfoInputs.cache
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\School of Yabba\obj\Debug\netcoreapp3.1\School of Yabba.AssemblyInfo.cs
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\School of Yabba\obj\Debug\netcoreapp3.1\School of Yabba.csproj.CoreCompileInputs.cache
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\School of Yabba\obj\Debug\netcoreapp3.1\School of Yabba.csproj.CopyComplete
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\School of Yabba\obj\Debug\netcoreapp3.1\School of Yabba.dll
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\School of Yabba\obj\Debug\netcoreapp3.1\School of Yabba.pdb
+C:\Users\s_now\Documents\GitHub\Basic-C-Sharp-Projects\School of Yabba\obj\Debug\netcoreapp3.1\School of Yabba.genruntimeconfig.cache
